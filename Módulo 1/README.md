@@ -1,8 +1,7 @@
-# **Módulo 01**:
+# **Módulo 01**: Estruturas Básicas
 
 ## **Lista de Exercícios:**
 
-### Comandos Básicos
    - ex000: Organizando arquivos.
    - ex001: Organizando dados de **forma tabular**.
    - ex002: Compatibilidade para **acentuação**.
