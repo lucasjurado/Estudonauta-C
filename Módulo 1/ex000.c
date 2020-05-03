@@ -3,7 +3,7 @@
 
 void main(){
     setlocale(0,"Portuguese");
-    printf("Ol·, Mundo!\n");
-    printf("Ufa! J· estou \"LIVRE\" da maldiÁ„o.");
+    printf("Ol√°, Mundo!\n");
+    printf("Ufa! J√° estou \"LIVRE\" da maldi√ß√£o.");
 
 }
